@@ -24,6 +24,10 @@
 
 2019.1.5 发布
 
+·COPYING
+
+apache license 2.0
+
 ·LICENS
 
 apache license 2.0
